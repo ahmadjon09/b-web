@@ -88,7 +88,7 @@ export const Footer = () => {
 
       {/* Bottom Line */}
       <div className='mt-10 mb-14 sm:mb-0 border-t border-gray-300 pt-4 text-center text-gray-500 text-sm'>
-        &copy; {new Date().getFullYear()} AAXpress. Barcha huquqlar
+        &copy; {new Date().getFullYear()} Biloliy. Barcha huquqlar
         himoyalangan.
       </div>
     </footer>
